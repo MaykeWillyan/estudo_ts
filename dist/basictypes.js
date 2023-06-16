@@ -9,4 +9,4 @@ let num2 = 2;
 function addnumber(num1, num2) {
     return num1 + num2;
 }
-console.log(addnumber(num1,num2));
+console.log(addnumber(num1, num2));
